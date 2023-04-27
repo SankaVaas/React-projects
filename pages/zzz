@@ -1,0 +1,48 @@
+<div>
+      
+      <Grid container spacing={1} columns={4} rowSpacing={1} columnSpacing={{ xs: 1, sm: 2, md: 3 }}>
+      <Grid  item xs={12} sm={6} md={4} >
+        <Card1/>
+         
+      </Grid>
+      <Grid item xs={12} sm={6} md={4} >
+        <Card2/>
+        
+      </Grid>
+      <Grid item xs={12} sm={6} md={4} >
+        <Card3/>
+        
+      </Grid>
+      <Grid item xs={12} sm={6} md={4} >
+        <Card4/>
+        
+      </Grid>
+      <Grid> 
+        <item xs={12} sm={6} md={4} >
+        <Card5/>
+        </item>
+      </Grid>
+      <Grid> 
+        <item xs={12} sm={6} md={4} >
+        <Card6/>
+        </item>
+      </Grid>
+      <Grid> 
+        <item xs={12} sm={6} md={4} >
+        <Card7/>
+        </item>
+      </Grid>
+      <Grid> 
+        <item xs={12} sm={6} md={4} >
+        <Card8/>
+        </item>
+      </Grid>
+      <Grid> 
+        <item xs={12} sm={6} md={4} >
+        <Card9/>
+        </item>
+      </Grid>
+
+    </Grid>
+    
+    </div>
